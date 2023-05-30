@@ -1,0 +1,22 @@
+{
+  "name": "verify-sailshq-lodash",
+  "version": "1.0.0",
+  "description": "Verify that sailshq/lodash is not a vulnerable package at least as described in the snyk database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apostrophecms/verify-sailshq-lodash.git"
+  },
+  "author": "Thomas Boutell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apostrophecms/verify-sailshq-lodash/issues"
+  },
+  "homepage": "https://github.com/apostrophecms/verify-sailshq-lodash#readme",
+  "dependencies": {
+    "@sailshq/lodash": "^3.10.4"
+  }
+}
